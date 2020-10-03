@@ -1,0 +1,2 @@
+# TugasUasMultilayerPerceptron
+Project AI menggunakan MultiLayerPerceptron
